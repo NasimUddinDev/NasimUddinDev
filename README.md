@@ -19,7 +19,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651122498709/FQjch0sgd.png"/ style="width:80px; height:80px">
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651122498709/FQjch0sgd.png"/ style="width:70px; height:60px;border-redius:10px">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 </p><br/>
